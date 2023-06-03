@@ -1,12 +1,10 @@
-# ShellC0de DDoS Platform | Free DDoS Online
-
-**ShellC0de DDoS Platform, not just an DDoS Platform!**
+## ShellC0de DDoS Platform, not just an DDoS Platform!
 
 Our Layer7 methods are good as they can Bypass Cloudflare, Sucuri, Ddos guard and all the others CDN.
 
 ---
 
-With our customizable stresser attack hub you can use custom settings to bypass any target even if they have custom rules to block ddos attacks. With this you can make sure to reach your goal.
+With our **customizable** stresser attack HUB you can use custom settings to bypass any target even if they have custom rules to block ddos attacks. With this you can make sure to reach your goal.
 
 ---
 

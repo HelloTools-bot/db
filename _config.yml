@@ -3,7 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: ShellC0de DDoS Platform
-description: Best free DDoS Platform Online
 show_downloads: ["false"]
 github:
   zip_url: https://1df69316-7e08-4ea8-8e7f-cf9f548f7407.mc.try2runit.eu.org/

@@ -1,7 +1,7 @@
 # ShellC0de DDoS Platform
 ## ShellC0de DDoS Platform, not just an DDoS Platform!
 
-Our Layer7 methods are good as they can Bypass Cloudflare, Sucuri, Ddos guard and all the others CDN.
+Our Layer4 methods are great as they can immediately stress on all your servers. Our Layer7 methods are good as they can Bypass Cloudflare, Sucuri, Ddos guard and all the others CDN.
 
 ---
 
